@@ -1,0 +1,71 @@
+{
+    "map": {
+        "hello world": "Привет мир",
+        "Номер в маршруте": "Number in route",
+        "ID в системе": "ID in system",
+        "Широта": "Latitude",
+        "Долгота": "Longitude",
+        "Адрес": "Address",
+        "Печать накладного листа": "Print the invoice sheet",
+        "Построить маршрут между точками": "Plot a route between points"
+    },
+    "sidebar": {
+        "Home": "Home",
+        "Dashboard": "Dashboard",
+        "Map": "Logistics",
+        "Settings": "Settings",
+        "Продажи": "Sales",
+        "Запасы": "Products",
+        "Excel": "Excel",
+        "Выйти": "Sign in",
+        "Войти": "Sign out"
+    },
+
+    "main": {
+        "Конроль всех аспектов бизнеса в одном приложении": "Control all aspects of the business in one application",
+        "Построить маршрут": "Build a route",
+        "Маршрут в PDF": "Route in PDF",
+        "Импорт EXCEL файлов": "Importing EXCEL files",
+        "Экпорт EXCEL файлов": "Exporting EXCEL files",
+        "Учет сотрудников": "Employee accounting",
+        "Изменение данных": "Changing the data",
+        "Учет товара": "Product accounting",
+        "Изменение товара": "Product change"
+    },
+
+    "dashboard": {
+        "Настройка": "Settings",
+        "фильтрации": "filtering",
+        "Товар": "Product",
+        "Количество": "Quantity",
+        "Редактирование": "Editing",
+        "товаров": "products",
+        "Применить": "Submit"
+    },
+
+    "settings": {
+        "Настройка": "Settings",
+        "Пользовательские": "User",
+        "Toggle me": "Toggle me",
+        "Уведомления": "Notifications"
+    },
+
+    "sales": {
+        "Продажи": "Sales",
+        "Выбор даты": "Choose Date",
+        "Фильтры-селектор": "Filter-Selectors"
+    },
+
+    "product": {
+        "Запасы": "Products",
+        "Статистика": "Statictic",
+        "Товар": "Product",
+        "Уведомления": "Notifications"
+    },
+
+    "excel": {
+        "Файл не выбран": "File is not selected",
+        "Получить ссылку на скачивание": "Get link",
+        "Скачать файл": "Download file"
+    }
+}
